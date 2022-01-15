@@ -25,3 +25,7 @@ def get_device_temp():
 def get_maximum_display_brightness():
     print('Calculating maximum display brightness in nits...')
     return 399.99999999
+
+def regional_jet():
+    print('This is a regional jet...')
+    return True
